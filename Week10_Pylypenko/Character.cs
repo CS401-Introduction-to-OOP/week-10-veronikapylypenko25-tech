@@ -42,5 +42,18 @@ public class Character
             Status = CharacterStatus.Active;
         }
     }
-    
+
+    public void GoldChange(int amount)
+    {
+        Gold += amount;
+        if (Gold < 0)
+        {
+            Gold = 0;
+        }
+    }
+
+    public override string ToString()
+    {
+        return $"Name: {Name}, role: {Role}, level: {Level}, HP: {Welbeeing}, gold: {Gold}, status: {Status}.";
+    }
 }
