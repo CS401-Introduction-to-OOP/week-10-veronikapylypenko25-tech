@@ -1,0 +1,15 @@
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\bin\Debug\net10.0\Week10_Pylypenko.exe
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\bin\Debug\net10.0\Week10_Pylypenko.deps.json
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\bin\Debug\net10.0\Week10_Pylypenko.runtimeconfig.json
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\bin\Debug\net10.0\Week10_Pylypenko.dll
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\bin\Debug\net10.0\Week10_Pylypenko.pdb
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\obj\Debug\net10.0\Week10_Pylypenko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\obj\Debug\net10.0\Week10_Pylypenko.AssemblyInfoInputs.cache
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\obj\Debug\net10.0\Week10_Pylypenko.AssemblyInfo.cs
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\obj\Debug\net10.0\Week10_Pylypenko.csproj.CoreCompileInputs.cache
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\obj\Debug\net10.0\Week10_Pylypenko.sourcelink.json
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\obj\Debug\net10.0\Week10_Pylypenko.dll
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\obj\Debug\net10.0\refint\Week10_Pylypenko.dll
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\obj\Debug\net10.0\Week10_Pylypenko.pdb
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\obj\Debug\net10.0\Week10_Pylypenko.genruntimeconfig.cache
+C:\Users\pylyp\RiderProjects\Week10_Pylypenko\Week10_Pylypenko\obj\Debug\net10.0\ref\Week10_Pylypenko.dll
