@@ -25,6 +25,8 @@ public class Character
         Gold = gold;
         Status = status;
     }
+    
+
     public void HpChange(int amount)
     {
         Welbeeing += amount;

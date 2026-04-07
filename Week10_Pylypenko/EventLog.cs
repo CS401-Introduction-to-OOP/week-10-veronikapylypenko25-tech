@@ -24,7 +24,7 @@ public class EventLog:IEnumerable<MyEvent>
         return GetEnumerator();
     }
 
-    public IEnumerator<MyEvent> GetActiveCharacters()
+    public IEnumerable<MyEvent> GetActiveCharacters()
     {
         foreach (var eventGame  in _events.OrderBy(e=>e.Number))
         {

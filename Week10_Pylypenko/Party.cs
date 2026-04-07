@@ -23,7 +23,7 @@ public class Party:IEnumerable<Character>
     return GetEnumerator();
   }
 
-  public IEnumerator<Character> GetActiveCharacters()
+  public IEnumerable<Character> GetActiveCharacters()
   {
     foreach (Character c in _characters )
     {
@@ -33,7 +33,7 @@ public class Party:IEnumerable<Character>
       }
     }
   }
-  public IEnumerator<Character> GetLowHP(int HpLimit)
+  public IEnumerable<Character> GetLowHP(int HpLimit)
   {
     foreach (Character c in _characters )
     {
