@@ -22,6 +22,25 @@ public class Party:IEnumerable<Character>
   {
     return GetEnumerator();
   }
-   
-  
+
+  public IEnumerator<Character> GetActiveCharacters()
+  {
+    foreach (Character c in _characters )
+    {
+      if (c.Status == CharacterStatus.Active)
+      {
+        yield return c; 
+      }
+    }
+  }
+  public IEnumerator<Character> GetLowHP(int HpLimit)
+  {
+    foreach (Character c in _characters )
+    {
+      if (c.Welbeeing<HpLimit)
+      {
+        yield return c; 
+      }
+    }
+  }
 }

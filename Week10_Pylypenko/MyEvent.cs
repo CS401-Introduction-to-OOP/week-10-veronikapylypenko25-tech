@@ -1,5 +1,7 @@
 ﻿namespace Week10_Pylypenko;
 
+using System.Collections;
+using System.Collections.Generic;
 public enum EventType
 {
     Fight, 
